@@ -6,7 +6,7 @@
 <br>
 
 </p><p align="center">
-<b>All contributions welcome, please open a pull request if you have anything to add.</b><br>
+<b>You can check or research all the code in the bat file..</b><br>
 <br>
 
 <br>
