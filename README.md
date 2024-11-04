@@ -17,3 +17,4 @@
 <sup>By downloading them, you acknowledge doing so at your own risk and agree to use them lawfully and solely for research purposes.</sup><br>
 </details>
 
+#Windows activation
